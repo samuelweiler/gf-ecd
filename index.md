@@ -1,13 +1,16 @@
 # Options for gender free English Country Dance calling
 
-The growing adoption of "larks" and "ravens" as gender free terminology at contra dances presents ECD
-leaders with an additional tool for leading gender free ECD.  It can be tricky to use these new terms for ECD
+The growing adoption of "larks" and "ravens" as gender free terminology at contra dances presents
+creates a new option for how to call gender free ECD.  It can be tricky to use these new terms for ECD
 because of the diversity of proper, improper, and odd-formation dances in the ECD repetroire. 
 
 This note compares several approaches for gender free ECD, describes how ECD was called at 
-several camps in 2018, and concludes with a recommendation to use "larks" and "ravens" (only) when they're helpful,
-but only after clarifying, for each dance, the frame of reference in which "left" and "right" are 
-considered.  
+several events in 2018, and concludes with a recommendation to use "larks" and "ravens" (only) when
+they're helpful, but only after clarifying, for each dance, the frame of reference in which "left" and
+"right" are considered.  
+
+I believe gender free ECD is in a period of rapid change, and this guidance should be taken as
+"best *current* practice" only.
 
 This note does not explore the "why" or "why not" for gender free calling, merely the "how".
 
@@ -20,6 +23,13 @@ There is a long tradtion of gender free ECD using global terminology.  At the Bo
 ## Frame of Reference
 
 Why is using "larks" and "ravens" terms for ECD trickier than using them for contra and Scottish?  Primarily *frame of reference*.
+
+In squares, circles, and improper dances (including Beckett formation
+dances), "lark on the left, raven on the right" applies as facing into
+the minor set.  In a proper longways dance, the frame of reference is
+the top of the hall, so there one long line of larks facing one long
+line of ravens.
+
 The modern contra dance repetoire is made up almost exclusively with improper dances.  In these, 
 "lark is on the left, raven is on the right" makes sense with a
 frame of reference of "facing in to the minor set", and that frame of reference is consistent for
@@ -49,15 +59,16 @@ Terry Harvey established a frame of reference for Scottish dances of "as facing 
 Anecdotally, dancers adapted well to the difference frames of reference.
 
 
-### Reframing dances: Next Generation Dance Camp, Mt. Hood Kiwanis Camp, October 2018
+### Reframing / rechoreographing dances: Next Generation Dance Camp, Mt. Hood Kiwanis Camp, October 2018
 
-As an experiment, I rechoreographed proper dances as improper and set an expectation at the start of the
-session that every dance would use the same frame of reference as an improper contra dance.  For example, I
+At the Next Generation dance camp, I called ECD to a crowd with limited ECD experience by treating
+every dance as though it were improper.  I instructed the dancers to "line up as
+though you're doing a contra - larks on the left, ravens on the right".  I
 started Barbarini's Tambourine with "Ravens cast over your left shoulder".  I used "larks" and "ravens"
 even when I would previously have used global directions (e.g. normally I call Barbarini's Tambourine with "first
 diagonals cast".
 
-The Next Generation camp expected to draw a crowd with limited ECD experience.  On the whole the session went smoothly.  Anecdotally, most dancers did not notice the experiment.  At least one dancer reported confusion - they had heard the name of familiar dance (e.g. Barbarini's) and missed the frame of reference setup.  
+On the whole the session went smoothly.  Anecdotally, most dancers did not notice the experiment.  At least one dancer reported confusion - they had heard the name of familiar dance (e.g. Barbarini's) and missed the frame of reference setup.  
 
 
 ## Recommendations for callers:
@@ -67,8 +78,8 @@ The Next Generation camp expected to draw a crowd with limited ECD experience.  
 * Circles, squares, and other "all face the center" formations are particularly well suited to using "larks" and "ravens".
 * Expect evolution in this advice and terms over time.  
 
-## Recommendations dance organizers:
+## Recommendations for dance organizers:
 
 * Negotiate the use of gender free terms with callers **when they are hired** - while some callers new to gender free calling may welcome making that transition, others may be unwilling.  It's better to work this out before commitments are made.
 * Do not dictate a particular form of gender free calling.  In particular, the choice of which terms to use and whether to rechoreograph dances is evolving, and callers should be given space to experiment.
-* Announce the intention to use gender free terms in advance, to avoid surprise among your dancers.
+* Announce the intention to use gender free terms in advance, to reduce the chances of surprising dancers.
