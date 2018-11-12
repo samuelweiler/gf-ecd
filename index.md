@@ -62,14 +62,11 @@ Anecdotally, dancers adapted well to the difference frames of reference.
 ### Reframing / rechoreographing dances: Next Generation Dance Camp, Mt. Hood Kiwanis Camp, October 2018
 
 At the Next Generation dance camp, I called ECD to a crowd with limited ECD experience by treating
-every dance as though it were improper.  I instructed the dancers to "line up as
-though you're doing a contra - larks on the left, ravens on the right".  I
-started Barbarini's Tambourine with "Ravens cast over your left shoulder".  I used "larks" and "ravens"
-even when I would previously have used global directions (e.g. normally I call Barbarini's Tambourine with "first
-diagonals cast".
+every dance as though it were improper.  I instructed the dancers to "line up for every dance as
+though you're doing a contra - larks on the left, ravens on the right".  I then used "larks" and "ravens"
+even when I previously have used more global directions.  For example, when calling a traditionally-proper-formation dance, instead of calling a figure for "first corners", I called it for "ravens".  (e.g. Corelli's Maggot began with "ravens" setting to each other.)
 
 On the whole the session went smoothly.  Anecdotally, most dancers did not notice the experiment.  At least one dancer reported confusion - they had heard the name of familiar dance (e.g. Barbarini's) and missed the frame of reference setup.  
-
 
 ## Recommendations for callers:
 
