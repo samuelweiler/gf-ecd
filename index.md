@@ -30,16 +30,14 @@ By contrast, the modern ECD repetoire has a diverse mix of dance formations.
 
 ## Experiences in 2018
 
-I am aware of eight dance camps that used "larks" and "ravens" terminology in 2018 for contra, ECD, and/or Scottish country dance[^1].  I attended six of those camps and called ECD at two.  
+I am aware of eight dance camps that used "larks" and "ravens" terminology in 2018 for contra, ECD, and/or Scottish country dance: Oberlin's Dandelion Romp, Queer Contra Dance Camp, LCFD spring camp, LCFD fall camp, Swing Into Summer at Pinewoods, ESCape at Pinewoods, Youth Dance Weekend, and the Next Generation camp.
 
-[^1]: Oberlin's Dandelion Romp, Queer Contra Dance Camp, LCFD spring camp, LCFD fall camp, Swing Into Summer at Pinewoods, ESCape at Pinewoods, Youth Dance Weekend, and the Next Generation camp.
-
-
+I attended six of those camps and called ECD at two.  Here are some observations:
 
 
 ### Global directions and landmarks: Queer Contra Dance Camp, Monte Toyon, April 2018
 
-At Queer Camp, I started off by assuming (and perhaps not explicitly stating) the same frame of reference as at a contra dance - facing into the minor set.
+At Queer Camp, I used global directions and landmarks.
 
 
 ### Setting frame of reference: ESCape - English-Scottish-Contra, Pinewoods, July 2018
@@ -47,6 +45,8 @@ At Queer Camp, I started off by assuming (and perhaps not explicitly stating) th
 At ESCape, contra and Scottish were called with "larks" and "ravens".  ECD was called with "men" and "women".
 
 Terry Harvey established a frame of reference for Scottish dances of "as facing the front of the hall, larks ont he left, ravens on the right".  Notably, this differed from the frame of reference used in most of the contra dances, with the frame of reference being "face into the minor set".
+
+Anecdotally, dancers adapted well to the difference frames of reference.
 
 
 ### Reframing dances: Next Generation Dance Camp, Mt. Hood Kiwanis Camp, October 2018
