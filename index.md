@@ -54,29 +54,29 @@ At Queer Camp, I used global directions and landmarks.
 
 At ESCape, contra and Scottish were called with "larks" and "ravens".  ECD was called with "men" and "women".
 
-Terry Harvey established a frame of reference for Scottish dances of "as facing the front of the hall, larks on the left, ravens on the right".  Notably, this differed from the frame of reference used in most of the contra dances, with the frame of reference being "face into the minor set".
+Terry Harvey established a frame of reference for Scottish dances of "as facing the front of the hall, larks on the left, ravens on the right".  This differed from the frame of reference used in most of the contra dances, with the frame of reference being "face into the minor set".
 
-Anecdotally, dancers adapted well to the difference frames of reference.
+Anecdotally, dancers adapted well to the different frames of reference.
 
 
 ### Reframing / rechoreographing dances: Next Generation Dance Camp, Mt. Hood Kiwanis Camp, October 2018
 
-At the Next Generation dance camp, I called ECD to a crowd with limited ECD experience by treating
+At the Next Generation dance camp, I called ECD to a group with limited ECD experience by treating
 every dance as though it were improper.  I instructed the dancers to "line up for every dance as
 though you're doing a contra - larks on the left, ravens on the right".  I then used "larks" and "ravens"
 even when I previously have used more global directions.  For example, when calling a traditionally-proper-formation dance, instead of calling a figure for "first corners", I called it for "ravens".  (e.g. Corelli's Maggot began with "ravens" setting to each other.)
 
-On the whole the session went smoothly.  Anecdotally, most dancers did not notice the experiment.  At least one dancer reported confusion - they had heard the name of familiar dance (e.g. Barbarini's) and missed the frame of reference setup.  
+On the whole the session went smoothly.  Anecdotally, most dancers did not notice the experiment.  At least one dancer reported confusion - they had heard the name of familiar dance (e.g. Barbarini's Tambourine) and missed the frame of reference setup.  
 
 ## Recommendations for callers:
 
 * Use **global instructions** to avoid naming individual positions whenever possible.
-* When naming individual positions is unavoidable, prepare as sets are formed by establishing the frame of reference for each dance, ideally using the traditional orientation.  Then use "larks" and "ravens".
+* When naming individual positions is unavoidable, prepare as sets are formed by **establishing the frame of reference** for each dance, ideally using the traditional orientation.  Then use "larks" and "ravens".
 * Circles, squares, and other "all face the center" formations are particularly well suited to using "larks" and "ravens".
 * Expect evolution in this advice and terms over time.  
 
 ## Recommendations for dance organizers:
 
-* Negotiate the use of gender free terms with callers **when they are hired** - while some callers new to gender free calling may welcome making that transition, others may be unwilling.  It's better to work this out before commitments are made.
-* Do not dictate a particular form of gender free calling.  In particular, the choice of which terms to use and whether to rechoreograph dances is evolving, and callers should be given space to experiment.
+* Negotiate the use of gender free terms with callers **when they are hired** - while some callers new to gender free calling may welcome making that transition, others may be unwilling.  Work this out before commitments are made.
+* Do not dictate a particular form of gender free calling.  The choice of which terms to use and whether to rechoreograph dances is evolving, and callers should be given space to experiment.
 * Announce the intention to use gender free terms in advance, to reduce the chances of surprising dancers.
