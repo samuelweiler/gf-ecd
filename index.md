@@ -54,7 +54,7 @@ At Queer Camp, I used global directions and landmarks.
 
 At ESCape, contra and Scottish were called with "larks" and "ravens".  ECD was called with "men" and "women".
 
-Terry Harvey established a frame of reference for Scottish dances of "as facing the front of the hall, larks ont he left, ravens on the right".  Notably, this differed from the frame of reference used in most of the contra dances, with the frame of reference being "face into the minor set".
+Terry Harvey established a frame of reference for Scottish dances of "as facing the front of the hall, larks on the left, ravens on the right".  Notably, this differed from the frame of reference used in most of the contra dances, with the frame of reference being "face into the minor set".
 
 Anecdotally, dancers adapted well to the difference frames of reference.
 
