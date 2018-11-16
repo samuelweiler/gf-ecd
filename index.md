@@ -40,7 +40,7 @@ By contrast, the modern ECD repetoire has a diverse mix of dance formations.
 
 ## Experiences in 2018
 
-I am aware of eight dance camps that used "larks" and "ravens" terminology in 2018 for contra, ECD, and/or Scottish country dance: Oberlin's Dandelion Romp, Queer Contra Dance Camp, LCFD spring camp, LCFD fall camp, Swing Into Summer at Pinewoods, ESCape at Pinewoods, Youth Dance Weekend, and the Next Generation camp.
+I am aware of eight dance camps that used "larks" and "ravens" terminology in 2018 for contra, ECD, and/or Scottish country dance: [Oberlin's Dandelion Romp](http://www2.oberlin.edu/stuorg/dromp/), [Queer Contra Dance Camp](https://www.lcfd.org/sf/DanceCamp/), LCFD spring camp, [LCFD fall camp](https://www.lcfd.org/lcfd/fall-dance-camp/), Swing Into Summer at Pinewoods, ESCape at Pinewoods, [Youth Dance Weekend](https://youthdanceweekend.org/), and the [Next Generation camp](http://www.nextgendancecamp.org/).
 
 I attended six of those camps and called ECD at two.  Here are some observations:
 
