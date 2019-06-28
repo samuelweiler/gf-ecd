@@ -1,4 +1,6 @@
 # Options for gender free English Country Dance calling
+Samuel Weiler and Louise Siddons<br>
+Version 1.0, November 2018
 
 The growing adoption of "larks" and "ravens" as position terms in contra dance presents
 another option for how to call gender free ECD.  Using these new terms for ECD can be
