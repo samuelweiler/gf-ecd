@@ -89,3 +89,8 @@ As I re-developed my walkthroughs for dances in my repertoire throughout late 20
 * Negotiate the use of gender free terms with callers **when they are hired**.  While some callers new to gender free calling may welcome using gender free terms, others may be unwilling.  Work this out before commitments are made.
 * Do not dictate a particular form of gender free calling.  The choice of which terms to use and whether to rechoreograph dances is evolving, and callers should be given space to experiment.
 * Announce the intention to use gender free terms to dancers in advance.
+
+
+## Feedback on this document
+
+This document is in [GitHub](https://github.com/samuelweiler/gf-ecd/blob/master/index.md).  Feel free to submit [issues](https://github.com/samuelweiler/gf-ecd/issues) and suggest changes in the form of GitHub [pull requests](https://github.com/samuelweiler/gf-ecd/pulls).
