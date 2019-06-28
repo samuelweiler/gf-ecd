@@ -77,7 +77,7 @@ As I re-developed my walkthroughs for dances in my repertoire throughout late 20
 
 ## Recommendations for leaders:
 
-* Use **global instructions** to avoid naming individual positions whenever possible.  As you prepare a dance, consider whether naming individuals is actually necessary, or if it simply reflects gendered bias.
+* Use **global instructions** to avoid naming individual positions whenever possible.  As you prepare a danc, consider whether naming individuals is actually necessary or if it simply reflects gendered bias.
 * When naming individual positions is unavoidable, prepare as sets are formed by **establishing the frame of reference** for each dance, ideally using the traditional orientation.  Then use "larks" and "ravens".
 * Circles, squares, and other "all face the center" formations are particularly well suited to using "larks" and "ravens".
 * Expect evolution in this advice and terms over time.  
