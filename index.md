@@ -3,9 +3,7 @@ Samuel Weiler and Louise Siddons<br>
 Version 1.0, November 2018
 
 The growing adoption of "larks" and "ravens" as position terms in contra dance presents
-another option for how to call gender free ECD.  Using these new terms for ECD can be
-more awkward than using them for contra
-because of the diversity of proper, improper, and odd-formation dances in the modern ECD repertoire. 
+another option for how to call gender free ECD. 
 
 This note compares several approaches for gender free ECD, describes how ECD was called at 
 several events in 2018, and concludes with a recommendation to use "larks" and "ravens" (only) when
@@ -25,7 +23,7 @@ There is a long tradtion of gender free ECD using global terminology.  At the LC
 
 ## Frame of Reference
 
-Why is using "larks" and "ravens" terms for ECD trickier than using them for contra and Scottish?  Primarily *frame of reference*.
+Why is using "larks" and "ravens" terms for ECD more awkward than using them for contra and Scottish?  Primarily *frame of reference*.
 
 In squares, circles, and improper dances (including Beckett formation
 dances), "larks on the left, ravens on the right" applies as facing into
@@ -38,7 +36,7 @@ The modern contra dance repetoire is made up almost exclusively with improper da
 frame of reference of "facing in to the minor set", and that frame of reference is consistent for
 nearly all contra dances done in an evening.  It also makes sense for squares where, again, there exists an obvious frame of reference of "face into the center".
 
-By contrast, the modern ECD repetoire has a diverse mix of dance formations.
+By contrast, the modern ECD repetoire has a more diverse mix of dance formations.
 
 
 ## Experiences in 2018
