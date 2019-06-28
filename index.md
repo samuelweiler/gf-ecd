@@ -43,7 +43,7 @@ By contrast, the modern ECD repetoire has a diverse mix of dance formations.
 
 ## Experiences in 2018
 
-We am aware of several dance camps that used "larks" and "ravens" terminology in 2018 for contra, ECD, and/or Scottish country dance: [Oberlin's Dandelion Romp](http://www2.oberlin.edu/stuorg/dromp/), [Queer Contra Dance Camp](https://www.lcfd.org/sf/DanceCamp/), LCFD spring camp, [LCFD fall camp](https://www.lcfd.org/lcfd/fall-dance-camp/), Swing Into Summer at Pinewoods, ESCape at Pinewoods, [Youth Dance Weekend](https://youthdanceweekend.org/), Supersonic, Form the Ocean, #dance weekend, and the [Next Generation camp](http://www.nextgendancecamp.org/).  Many CDSS camps also used "larks" and "ravens" for at least some sessions: Harmony of Song and Dance, American Week, Family Week, Campers Week, and Camp Louise.
+We are aware of several dance camps that used "larks" and "ravens" terminology in 2018 for contra, ECD, and/or Scottish country dance: [Oberlin's Dandelion Romp](http://www2.oberlin.edu/stuorg/dromp/), [Queer Contra Dance Camp](https://www.lcfd.org/sf/DanceCamp/), LCFD spring camp, [LCFD fall camp](https://www.lcfd.org/lcfd/fall-dance-camp/), Swing Into Summer at Pinewoods, ESCape at Pinewoods, [Youth Dance Weekend](https://youthdanceweekend.org/), Supersonic, Form the Ocean, #dance weekend, and the [Next Generation camp](http://www.nextgendancecamp.org/).  Many CDSS camps also used "larks" and "ravens" for at least some sessions: Harmony of Song and Dance, American Week, Family Week, Campers Week, and Camp Louise.
 
 We attended six of those camps and called ECD at two.  Here are some observations:
 
@@ -67,11 +67,11 @@ Anecdotally, dancers adapted well to the different frames of reference.
 At the Next Generation dance camp, I (Sam) called ECD to a group with limited ECD experience by treating
 every longways dance as though it were improper.  I instructed the dancers to "line up for every dance as
 though you're doing a contra - larks on the left, ravens on the right".  I then used "larks" and "ravens"
-even when he previously would have used more global directions.  For example, when calling a traditionally-proper-formation dance, instead of calling a figure for "first corners", I called it for "ravens".  (e.g., Corelli's Maggot began with "ravens" setting to each other.)
+even when I previously would have used more global directions.  For example, when calling a traditionally-proper-formation dance, instead of calling a figure for "first corners", I called it for "ravens".  (e.g., Corelli's Maggot began with "ravens" setting to each other.)
 
 On the whole the session went smoothly.  Anecdotally, most dancers did not notice the experiment.  At least one dancer reported confusion - they had heard the name of familiar dance (e.g. Barbarini's Tambourine) and missed the frame of reference setup.  
 
-### Global instructions without landmarks: YDW, Vermont, October 2018 (added by Louise)
+### Global instructions without landmarks: YDW, Vermont, October 2018
 
 At YDW, I (Louise) called the ECD track using only global instructions with internal referents: partner, corner, neighbor, etc.  I also called a couple of contras, also with only global instructions (including "right-hand chain," and "left-hand chain").  Contra is primary at YDW, and the dancers who attend are mostly inexperienced English dancers; several people made a point of telling me it was the first time they'd done ECD. They lined up however they chose, and I began each walkthrough by introducing key relationships ("Your partner is across from you. As you face your partner, first corners are on the right diagonal, and second corners on the left diagonal." Etc.). I made no mention of individual roles within each couple, and no one asked. I also did not call dances that required the use of external frames of reference -- a decision that was based on a) the fact that I still had 90% of my repertoire available to me after eliminating those dances, and b) my desire to stay within a contra-familiar framework of internal-reference-only descriptors when working with an ECD-inexperienced group.
 
