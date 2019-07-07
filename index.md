@@ -11,15 +11,15 @@ they're helpful and only after clarifying, for each dance, the frame of referenc
 "right" are considered.  
 
 We believe gender free ECD is in a period of rapid change, and this guidance should be taken as
-"best *current* practice" only.
+a description of how our experience has led us to see "best *current* practice" only.
 
 This note does not explore the "why" or "why not" for gender free calling, merely the "how".
 
 ## Background
 
-There is a long tradtion of gender free ECD using global terminology.  At the LCFD dance in Boston, landmarks (e.g. "the clock side of the hall" or "the window side") are used for the rare occasions when one dancer or one side of a longways set needs to be called out separately from the others.
+There is a long tradtion of gender free ECD using global terminology.  At the LCFD dance in Boston, as at other dances using global terminology, landmarks (e.g. "the clock side of the hall" or "the window side") are used for the rare occasions when one dancer or one side of a longways set needs to be called out separately from the others.
 
-[Read Weaver's document on Boston's conventions](https://www.lcfd.org/gf-ecd-calling-conventions.html) provides excellent background.  Bruce Hamilton's [Notes on Teaching Country Dance](https://www.cdss.org/index.php/vm-store/books/notes-on-teaching-country-dance-263-detail), while not aimed at gender-free calling, also discusses global directions.
+[Read Weaver's document on Boston's conventions](https://www.lcfd.org/gf-ecd-calling-conventions.html) provides excellent background.  Bruce Hamilton's [Notes on Teaching Country Dance](https://www.cdss.org/index.php/vm-store/books/notes-on-teaching-country-dance-263-detail), while not aimed at gender-free calling, also discusses global directions. [The Heather and the Rose](http://www.heatherandrose.org/about.shtml), based in Oregon and formally incorporated in 1982, uses [global terminology](http://www.heatherandrose.org/terms.shtml) for ECD and Scottish dancing. Andrea Nettleton has recently been publicizing her own theory of positional calling for ECD and contra, and Beth Molaro has been picking up positional/global terminology for contra as well.
 
 ## Frame of Reference
 
@@ -29,14 +29,14 @@ In squares, circles, and improper dances (including Beckett formation
 dances), "larks on the left, ravens on the right" applies as facing into
 the minor set.  In a proper longways dance, the frame of reference is
 the top of the hall, so there is one long line of larks facing one long
-line of ravens.
+line of ravens. At the heart of this convention is a single figure: the asymmetrical swing, in which one dancer must end on the left and the other on the right in order for the choreography to be successful. Whereas in ECD the choreography specifies the number of rotations in a two-hand turn, in contra dancing the swing includes a flexible number of rotations but relies on dancers knowing where they should end -- based on their role within their partnership.
 
-The modern contra dance repetoire is made up almost exclusively with improper dances.  In these, 
-"larks on the left, ravens on the right" makes sense with a
-frame of reference of "facing in to the minor set", and that frame of reference is consistent for
-nearly all contra dances done in an evening.  It also makes sense for squares where, again, there exists an obvious frame of reference of "face into the center".
+The modern contra dance repetoire is dominated by improper dances and other formations that assume partners will begin/return to a left/right orientation in relation to one another with reference to the whole set (or a minor set of four, eight, etc).  In these, 
+"larks on the left, ravens on the right" makes sense with that
+frame of reference, which remains consistent for
+nearly all contra dances done in an evening.  It also makes sense for squares where, again, there exists an obvious frame of reference of "face into the center". (Note: this hasn't historically been the case.)
 
-By contrast, the modern ECD repetoire has a more diverse mix of dance formations.
+By contrast, the modern ECD repetoire has a more diverse mix of dance formations, and rarely uses the asymmetrical swing figure.
 
 
 ## Experiences in 2018
@@ -77,15 +77,15 @@ As I re-developed my walkthroughs for dances in my repertoire throughout late 20
 
 ## Recommendations for leaders:
 
-* Use **global instructions** to avoid naming individual positions whenever possible.  As you prepare a danc, consider whether naming individuals is actually necessary or if it simply reflects gendered bias.
+* Use **global instructions** to avoid naming individual positions whenever possible.  As you prepare a dance, consider whether naming individuals is actually necessary or if it simply reflects gendered bias.
 * When naming individual positions is unavoidable, prepare as sets are formed by **establishing the frame of reference** for each dance, ideally using the traditional orientation.  Then use "larks" and "ravens".
 * Circles, squares, and other "all face the center" formations are particularly well suited to using "larks" and "ravens".
-* Expect evolution in this advice and terms over time.  
+* Expect evolution in this advice and terms over time; discussion/revision is better than rigid ideology, and particularly in folk dance forms, the organic development of styles, trends, and choreography will require/reward creative adaptation.  
 
 ## Recommendations for dance organizers:
 
 * Negotiate the use of gender free terms with callers **when they are hired**.  While some callers new to gender free calling may welcome using gender free terms, others may be unwilling.  Work this out before commitments are made.
-* Do not dictate a particular form of gender free calling.  The choice of which terms to use and whether to rechoreograph dances is evolving, and callers should be given space to experiment.
+* Do not dictate a particular form of gender free calling.  The choice of which terms to use and whether to rechoreograph dances is evolving, and callers should be given space to experiment. (Louise: I disagree with this to the extent that I think communities should be allowed to build their own traditions, and callers invited into those communities should adapt to them. Dance week(end)s are a slightly different story, as they have less responsibility for new dancers and community building; they offer important opportunities for callers to expand and perfect their craft.)
 * Announce the intention to use gender free terms to dancers in advance.
 
 
